@@ -1,0 +1,10 @@
+D:\Zalina\YchPractik1\SimpleCalculatorWinForms\bin\Debug\SimpleCalculatorWinForms.exe.config
+D:\Zalina\YchPractik1\SimpleCalculatorWinForms\bin\Debug\SimpleCalculatorWinForms.exe
+D:\Zalina\YchPractik1\SimpleCalculatorWinForms\bin\Debug\SimpleCalculatorWinForms.pdb
+D:\Zalina\YchPractik1\SimpleCalculatorWinForms\obj\Debug\SimpleCalculatorWinForms.csproj.AssemblyReference.cache
+D:\Zalina\YchPractik1\SimpleCalculatorWinForms\obj\Debug\SimpleCalculatorWinForms.Form1.resources
+D:\Zalina\YchPractik1\SimpleCalculatorWinForms\obj\Debug\SimpleCalculatorWinForms.Properties.Resources.resources
+D:\Zalina\YchPractik1\SimpleCalculatorWinForms\obj\Debug\SimpleCalculatorWinForms.csproj.GenerateResource.cache
+D:\Zalina\YchPractik1\SimpleCalculatorWinForms\obj\Debug\SimpleCalculatorWinForms.csproj.CoreCompileInputs.cache
+D:\Zalina\YchPractik1\SimpleCalculatorWinForms\obj\Debug\SimpleCalculatorWinForms.exe
+D:\Zalina\YchPractik1\SimpleCalculatorWinForms\obj\Debug\SimpleCalculatorWinForms.pdb
